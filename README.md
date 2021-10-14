@@ -15,5 +15,5 @@ sdadasd
 Pls fork this repo and then issue Pull Req review
 
 ##Copyright
-2014 Git.Training.
+2014 Git.Training. All rights reserved.
 
