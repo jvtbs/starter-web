@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This is a simple website for showing how to use Git and Github together. 
-Adding a line for rebasing, more changes from myfeature
+Adding a line for rebasing, more changes from myfeature. Emergency Fix
 
 #Introduction
 
