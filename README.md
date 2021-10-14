@@ -11,6 +11,7 @@ sdadasd
 ##Deployment
 
 ##How To Contribute
+Pls fork this repo and then issue Pull Req review
 
 ##Copyright
 2014 Git.Training.
